@@ -1,0 +1,41 @@
+# Ignore Maven's target directory
+/target/
+
+# Ignore Gradle build output directory
+/build/
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# VS Code specific files
+.vscode/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files and caches
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Ignore compiled files
+*.class
+
+# Ignore generated application properties
+application-*.properties
+application-*.yml
+
+# Ignore local environment settings
+.env
